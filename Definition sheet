@@ -1,1 +1,3 @@
-
+Switch: Turns the game on and off 
+Button (right): moves the character positively on the LED
+Button (left): moves the character negatively on the LED
