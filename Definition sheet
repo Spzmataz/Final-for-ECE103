@@ -1,3 +1,3 @@
 Switch: Turns the game on and off 
-Button (right): moves the character positively on the LED
-Button (left): moves the character negatively on the LED
+Button (right): moves the character positively on the LED between 0 and 10 and will loop to 0 if it goes over 10
+Button (left): moves the character negatively on the LED between 0 and 10 and will loop to 10 if it goes below 0
